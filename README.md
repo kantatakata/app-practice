@@ -1,5 +1,8 @@
 # README
-
+#DMM WEBCAMPコンテンツ【アプリケーションを完成させよう２】
+DMM WEBCAMPの学習コンテンツです。
+＃＃使い方
+PCのブラウザで実行できます。
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
